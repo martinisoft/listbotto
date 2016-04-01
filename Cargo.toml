@@ -2,3 +2,6 @@
 name = "listbotto"
 version = "0.1.0"
 authors = ["Aaron Kalin <akalin@martinisoftware.com>"]
+
+[dependencies]
+getopts = "0.2"
