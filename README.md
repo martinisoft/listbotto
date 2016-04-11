@@ -18,6 +18,8 @@ or maybe a party.
 
 * Rust 1.7.0 or later to build, binary releases run on their own without the
   need for a Rust runtime.
+* The [FMOD Ex library][fmod] somewhere in the library path. I cannot
+  distribute this requirement due to licensing.
 
 ## License
 
@@ -36,3 +38,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [Rust]: https://www.rust-lang.org/
+[fmod]: http://www.fmod.org/download-previous-products/
