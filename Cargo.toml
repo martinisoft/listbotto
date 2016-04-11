@@ -6,3 +6,5 @@ authors = ["Aaron Kalin <akalin@martinisoftware.com>"]
 [dependencies]
 getopts = "0.2"
 glob = "0.2"
+fmod = "*"
+rand = "0.3"
