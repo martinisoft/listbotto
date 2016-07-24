@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Aaron Kalin <akalin@martinisoftware.com>"]
 
 [dependencies]
+iron = "0.4.0"
+mime = "0.2.0"
 getopts = "0.2"
 glob = "0.2"
 fmod = "*"
